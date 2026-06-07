@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://github.com/AdityaCoppisetti/adityacoppisetti/blob/main/DSC00225.jpg?raw=true
+DSC00225.jpg
 
 <!--
 **AdityaCoppisetti/adityacoppisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

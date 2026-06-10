@@ -4,7 +4,8 @@ yeah i know thats a mouthful bahahaha
 
 Student Builder. collector of unfinished prototypes.
 
-I like projects that force me to learn five different skills at once.
+I like projects that force me to learn five different skills at once. 
+here is my portfolio- https://adityacoppisetti.github.io/
 
 One week I'm reverse engineering a camera. The next I'm designing a PCB, building a combat robot, experimenting with drones, writing software, or turning old hardware into something it was never designed to be.
 

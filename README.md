@@ -25,7 +25,8 @@ Current mission: become the kind of engineer who can design the electronics, wri
 
 If a project requires soldering, CAD, code, machining, research papers, and several bad decisions, I'm probably interested.
 
-![Image Alt](https://github.com/AdityaCoppisetti/adityacoppisetti/blob/a4792348d9d9effd04ff39fb77b998d2121ce1d8/DSC06334.jpg)
+
+<img width="1409" height="939" alt="DSC06344" src="https://github.com/user-attachments/assets/18e37045-916a-4053-835e-b33e7a4c8477" />
 
 <!--
 **AdityaCoppisetti/adityacoppisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

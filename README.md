@@ -23,7 +23,7 @@ I care less about following a predefined path and more about building difficult 
 
 Current mission: become the kind of engineer who can design the electronics, write the software, build the mechanism, document the process, and explain why it works.
 
-If a project requires soldering, CAD, code, machining, research papers, and several bad decisions, I'm probably interested.
+If a project requires soldering, CAD, code, research papers, and several bad decisions, I'm probably interested.
 
 
 <img width="1409" height="939" alt="DSC06344" src="https://github.com/user-attachments/assets/18e37045-916a-4053-835e-b33e7a4c8477" />

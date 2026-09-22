@@ -26,7 +26,7 @@ Current mission: become the kind of engineer who can design the electronics, wri
 If a project requires soldering, CAD, code, research papers, and several bad decisions, I'm probably interested.
 
 
-<img width="1409" height="939" alt="DSC06344" src="https://github.com/user-attachments/assets/18e37045-916a-4053-835e-b33e7a4c8477" />
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=22133&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats">
 
 
 

@@ -29,4 +29,4 @@ If a project requires soldering, CAD, code, research papers, and several bad dec
 <img width="1409" height="939" alt="DSC06344" src="https://github.com/user-attachments/assets/18e37045-916a-4053-835e-b33e7a4c8477" />
 
 
-https://github-readme-stats.hackclub.dev/api/wakatime?username=22133&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+

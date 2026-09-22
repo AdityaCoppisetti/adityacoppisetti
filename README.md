@@ -25,6 +25,10 @@ Current mission: become the kind of engineer who can design the electronics, wri
 
 If a project requires soldering, CAD, code, research papers, and several bad decisions, I'm probably interested.
 
+
+<img width="1409" height="939" alt="image" src="https://github.com/user-attachments/assets/3e6d736b-85fe-48fa-99a8-6576071ee292" />
+
+
 ## Hackatime 
 
 how much time i have spent coding in different languages

@@ -28,4 +28,4 @@ If a project requires soldering, CAD, code, research papers, and several bad dec
 
 <img width="1409" height="939" alt="DSC06344" src="https://github.com/user-attachments/assets/18e37045-916a-4053-835e-b33e7a4c8477" />
 
-{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
+
